@@ -3680,7 +3680,7 @@ public class Thai_to_English {
 				"กลาง\r\n" + 
 				"กลางแจ้ง\r\n" + 
 				"ดูด\r\n" + 
-				"Andor\r\n" + 
+				"และหรือ\r\n" + 
 				"ออกอากาศ\r\n" + 
 				"อีกครั้ง\r\n" + 
 				"เผ่น\r\n" + 
@@ -4640,7 +4640,7 @@ public class Thai_to_English {
 				"แอบดู\r\n" + 
 				"ลิง\r\n" + 
 				"ที่ปรึกษา\r\n" + 
-				"twothirds\r\n" + 
+				"2/3\r\n" + 
 				"ผู้ฟัง\r\n" + 
 				"ฟ้าแลบ\r\n" + 
 				"ตามกฎหมาย\r\n" + 
@@ -8685,7 +8685,7 @@ public class Thai_to_English {
 				"klāng\r\n" + 
 				"klāngcæ̂ng\r\n" + 
 				"dūd\r\n" + 
-				"Andor\r\n" + 
+				"Læa h̄rụ̄x\r\n" + 
 				"xxkxākāṣ̄\r\n" + 
 				"xīk khrậng\r\n" + 
 				"p̄hèn\r\n" + 

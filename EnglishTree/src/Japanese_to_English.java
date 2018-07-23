@@ -11,7 +11,11 @@ public class Japanese_to_English {
 
 		System.out.println(lines[4999]);
 
-
+	for(String l : lines) {
+			
+			System.out.println(l);
+		}
+		
 
 	}
 
@@ -1089,7 +1093,7 @@ public class Japanese_to_English {
 				"新聞\r\n" + 
 				"代わりに\r\n" + 
 				"脅威\r\n" + 
-				"responsiblen\r\n" + 
+				"責任ある\r\n" + 
 				"スマイル\r\n" + 
 				"弁護士\r\n" + 
 				"スコア\r\n" + 
@@ -2710,7 +2714,7 @@ public class Japanese_to_English {
 				"反応する\r\n" + 
 				"チャンバー\r\n" + 
 				"家具\r\n" + 
-				"協力\r\n" + 
+				"合作\r\n" + 
 				"文字列\r\n" + 
 				"式\r\n" + 
 				"通信する\r\n" + 
@@ -3670,7 +3674,7 @@ public class Japanese_to_English {
 				"中\r\n" + 
 				"屋外\r\n" + 
 				"吸う\r\n" + 
-				"andor\r\n" + 
+				"および/または\r\n" + 
 				"放送\r\n" + 
 				"再\r\n" + 
 				"飛躍\r\n" + 
@@ -4630,7 +4634,7 @@ public class Japanese_to_English {
 				"こっそりした\r\n" + 
 				"モンキー\r\n" + 
 				"指導者\r\n" + 
-				"twothirds\r\n" + 
+				"2/3\r\n" + 
 				"リスナー\r\n" + 
 				"ライトニング\r\n" + 
 				"法的に\r\n" + 
