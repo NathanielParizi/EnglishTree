@@ -4236,7 +4236,7 @@ public class English_Vocabulary {
 				"bankruptcy\r\n" + 
 				"vaccine\r\n" + 
 				"bonus\r\n" + 
-				"collaborationn\r\n" + 
+				"collaboration\r\n" + 
 				"mixed\r\n" + 
 				"opposed\r\n" + 
 				"orbit\r\n" + 
