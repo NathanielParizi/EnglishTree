@@ -12,7 +12,7 @@ public class English_Vocabulary {
 		
 		String lines[] = english.split(System.getProperty("line.separator"));
 		
-		System.out.println(lines[0]);  
+		System.out.println(lines[4999]);  
 		
 		//950 - 960  problem fault occurs
 		
