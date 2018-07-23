@@ -14,11 +14,7 @@ public class Thai_to_English {
 		
 	
 		
-		for(String l : lines) {
-			
-			System.out.println(l);
-		}
-		
+
 		
 		String linesP[] = thaiP.split(System.getProperty("line.separator"));
 		

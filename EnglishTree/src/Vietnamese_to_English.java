@@ -11,6 +11,10 @@ public class Vietnamese_to_English {
 
 		System.out.println(lines[4999]);
 		
+		for(String l : lines) {
+			
+			System.out.println(l);
+		}
 
 
 }
@@ -4565,7 +4569,7 @@ public class Vietnamese_to_English {
 				"mỳ ống\r\n" + 
 				"thể loại\r\n" + 
 				"xao lãng\r\n" + 
-				"n: Xứng đáng\r\n" + 
+				"Xứng đáng\r\n" + 
 				"người lập kế hoạch\r\n" + 
 				"suy sụp\r\n" + 
 				"chunk\r\n" + 
@@ -4628,7 +4632,7 @@ public class Vietnamese_to_English {
 				"lẻn\r\n" + 
 				"con khỉ\r\n" + 
 				"người hướng dẫn\r\n" + 
-				"twothirds\r\n" + 
+				"2/3\r\n" + 
 				"người nghe\r\n" + 
 				"sét đánh\r\n" + 
 				"hợp pháp\r\n" + 

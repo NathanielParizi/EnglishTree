@@ -11,10 +11,7 @@ public class Japanese_to_English {
 
 		System.out.println(lines[4999]);
 
-	for(String l : lines) {
-			
-			System.out.println(l);
-		}
+
 		
 
 	}
