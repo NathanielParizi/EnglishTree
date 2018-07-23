@@ -1,6 +1,6 @@
 import java.io.IOException;
 
-public class Chinese_to_ {
+public class Chinese_to_English {
 	
 	public static void main(String[] args) throws IOException {
 
@@ -10,14 +10,14 @@ public class Chinese_to_ {
 		
 		String lines[] = chinese.split(System.getProperty("line.separator"));
 		
-		System.out.println(lines[970]);  
+		System.out.println(lines[1170]);  
 		
 		//950 - 960  problem fault occurs
 		
 		
 		String linesP[] = chineseP.split(System.getProperty("line.separator"));
 		
-		System.out.println(linesP[970]);  
+		System.out.println(linesP[1170]);  
 
 	}
 
