@@ -12,12 +12,17 @@ public class Thai_to_English {
 		
 		System.out.println(lines[0]);  
 		
-		//950 - 960  problem fault occurs
+	
+		
+		for(String l : lines) {
+			
+			System.out.println(l);
+		}
 		
 		
 		String linesP[] = thaiP.split(System.getProperty("line.separator"));
 		
-		System.out.println(linesP[0]);  
+		System.out.println(linesP[4999]);  
 
 	}
 
@@ -1094,7 +1099,7 @@ public class Thai_to_English {
 				"หนังสือพิมพ์\r\n" + 
 				"แทน\r\n" + 
 				"การคุกคาม\r\n" + 
-				"responsibilityn\r\n" + 
+				"ความรับผิดชอบ\r\n" + 
 				"ยิ้ม\r\n" + 
 				"อัยการ\r\n" + 
 				"คะแนน\r\n" + 
@@ -2954,7 +2959,7 @@ public class Thai_to_English {
 				"แกล้งทำ\r\n" + 
 				"ไม่\r\n" + 
 				"สูงอายุ\r\n" + 
-				"representationn\r\n" + 
+				"Kār s̄ædng\r\n" + 
 				"กวาง\r\n" + 
 				"แยก\r\n" + 
 				"ละเมิด\r\n" + 
@@ -4053,7 +4058,7 @@ public class Thai_to_English {
 				"ผิดหวัง\r\n" + 
 				"ล้ำค่า\r\n" + 
 				"ห้าม\r\n" + 
-				"representativej\r\n" + 
+				"ตัวแทน\r\n" + 
 				"เนื้อหา\r\n" + 
 				"เหมือนจริง\r\n" + 
 				"รัสเซีย\r\n" + 
@@ -4237,7 +4242,7 @@ public class Thai_to_English {
 				"การล้มละลาย\r\n" + 
 				"วัคซีน\r\n" + 
 				"โบนัส\r\n" + 
-				"collaborationn\r\n" + 
+				"การร่วมมือ\r\n" + 
 				"ผสม\r\n" + 
 				"ตรงข้าม\r\n" + 
 				"โคจร\r\n" + 
@@ -6099,7 +6104,7 @@ public class Thai_to_English {
 				"h̄nạngs̄ụ̄xphimph̒\r\n" + 
 				"thæn\r\n" + 
 				"kār khukkhām\r\n" + 
-				"responsibilityn\r\n" + 
+				"Khwām rạbp̄hidchxb\r\n" + 
 				"yîm\r\n" + 
 				"xạykār\r\n" + 
 				"khanæn\r\n" + 
@@ -7959,7 +7964,7 @@ public class Thai_to_English {
 				"kæl̂ng thả\r\n" + 
 				"mị̀\r\n" + 
 				"s̄ūngxāyu\r\n" + 
-				"representationn\r\n" + 
+				"การแสดง\r\n" + 
 				"kwāng\r\n" + 
 				"yæk\r\n" + 
 				"lameid\r\n" + 
@@ -9058,7 +9063,7 @@ public class Thai_to_English {
 				"p̄hidh̄wạng\r\n" + 
 				"l̂ảkh̀ā\r\n" + 
 				"h̄̂ām\r\n" + 
-				"representativej\r\n" + 
+				"Tạwthæn\r\n" + 
 				"neụ̄̂xh̄ā\r\n" + 
 				"h̄emụ̄xn cring\r\n" + 
 				"rạs̄seīy\r\n" + 
@@ -9242,7 +9247,7 @@ public class Thai_to_English {
 				"kār l̂mlalāy\r\n" + 
 				"wạkhsīn\r\n" + 
 				"bonạs̄\r\n" + 
-				"collaborationn\r\n" + 
+				"Kār r̀wmmụ̄x\r\n" + 
 				"p̄hs̄m\r\n" + 
 				"trng k̄ĥām\r\n" + 
 				"khocr\r\n" + 
