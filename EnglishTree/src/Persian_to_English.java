@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.util.*;
 
-public class Farsi_to_English {
+public class Persian_to_English {
 
 	public static void main(String[] args) throws IOException {
 
