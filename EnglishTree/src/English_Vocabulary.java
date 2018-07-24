@@ -20,7 +20,7 @@ public class English_Vocabulary {
 		}
 		
 		
-		System.out.println(lines[1384]);
+		System.out.println(lines[2930]);
 
 	}
 

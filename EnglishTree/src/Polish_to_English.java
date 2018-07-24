@@ -50,7 +50,7 @@ public class Polish_to_English {
 				"od\r\n" + 
 				"że\r\n" + 
 				"nie\r\n" + 
-				"nt\r\n" + 
+				"nie rób tego\r\n" + 
 				"przez\r\n" + 
 				"Ona\r\n" + 
 				"lub\r\n" + 
@@ -1406,7 +1406,7 @@ public class Polish_to_English {
 				"ignorować\r\n" + 
 				"jajko\r\n" + 
 				"zmierzyć\r\n" + 
-				"zadać kłam\r\n" + 
+				"wiara\r\n" + 
 				"wykazać\r\n" + 
 				"ktoś\r\n" + 
 				"morderstwo\r\n" + 
@@ -4633,7 +4633,7 @@ public class Polish_to_English {
 				"skradać się\r\n" + 
 				"małpa\r\n" + 
 				"mentor\r\n" + 
-				"2/3\r\n" + 
+				"dwie trzecie\r\n" + 
 				"słuchacz\r\n" + 
 				"Błyskawica\r\n" + 
 				"prawnie\r\n" + 

@@ -10,7 +10,7 @@ public class Spanish_to_English {
 		
 		String lines[] = spanish.split(System.getProperty("line.separator"));
 		
-		System.out.println(lines[4999]);  
+		System.out.println(lines[2930]);  
 		
 		//950 - 960  problem fault occurs
 		
@@ -49,7 +49,7 @@ public class Spanish_to_English {
 				"de\r\n" + 
 				"ese\r\n" + 
 				"no\r\n" + 
-				"Nuevo Testamento\r\n" + 
+				"no lo hagas\r\n" + 
 				"por\r\n" + 
 				"ella\r\n" + 
 				"o\r\n" + 
@@ -2951,7 +2951,7 @@ public class Spanish_to_English {
 				"fingir\r\n" + 
 				"no\r\n" + 
 				"mayor\r\n" + 
-				"representationn\r\n" + 
+				"representación\r\n" + 
 				"ciervo\r\n" + 
 				"división\r\n" + 
 				"violar\r\n" + 
@@ -3672,7 +3672,7 @@ public class Spanish_to_English {
 				"medio\r\n" + 
 				"al aire libre\r\n" + 
 				"chupar\r\n" + 
-				"andor\r\n" + 
+				"y o\r\n" + 
 				"emisión\r\n" + 
 				"re\r\n" + 
 				"salto\r\n" + 
@@ -4234,7 +4234,7 @@ public class Spanish_to_English {
 				"bancarrota\r\n" + 
 				"vacuna\r\n" + 
 				"prima\r\n" + 
-				"colaboraciónn\r\n" + 
+				"colaboración\r\n" + 
 				"mezclado\r\n" + 
 				"opuesto\r\n" + 
 				"orbita\r\n" + 

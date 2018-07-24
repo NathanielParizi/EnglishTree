@@ -12,11 +12,7 @@ public class Portuguese_to_English {
 		String lines[] = portuguese.split(System.getProperty("line.separator"));
 		
 		System.out.println(lines[3000]);  
-		
-		//950 - 960  problem fault occurs
-		
-		
-		 
+	 
 
 	}
 
@@ -50,7 +46,7 @@ public class Portuguese_to_English {
 				"a partir de\r\n" + 
 				"aquele\r\n" + 
 				"não\r\n" + 
-				"nt\r\n" + 
+				"não faça\r\n" + 
 				"de\r\n" + 
 				"ela\r\n" + 
 				"ou\r\n" + 
@@ -1406,7 +1402,7 @@ public class Portuguese_to_English {
 				"ignorar\r\n" + 
 				"ovo\r\n" + 
 				"a medida\r\n" + 
-				"desmentir\r\n" + 
+				"crença\r\n" + 
 				"demonstrar\r\n" + 
 				"qualquer pessoa\r\n" + 
 				"assassinato\r\n" + 
@@ -3673,7 +3669,7 @@ public class Portuguese_to_English {
 				"médio\r\n" + 
 				"ao ar livre\r\n" + 
 				"chupar\r\n" + 
-				"andor\r\n" + 
+				"e ou\r\n" + 
 				"transmissão\r\n" + 
 				"ré\r\n" + 
 				"salto\r\n" + 
