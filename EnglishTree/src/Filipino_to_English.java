@@ -45,7 +45,7 @@ public class Filipino_to_English {
 				"mula sa\r\n" + 
 				"na\r\n" + 
 				"hindi\r\n" + 
-				"nt\r\n" + 
+				"hindi\r\n" + 
 				"sa pamamagitan ng\r\n" + 
 				"siya\r\n" + 
 				"o\r\n" + 
@@ -94,7 +94,7 @@ public class Filipino_to_English {
 				"iba pa\r\n" + 
 				"kung paano\r\n" + 
 				"pagkatapos\r\n" + 
-				"nito\r\n" + 
+				"ito ay\r\n" + 
 				"aming\r\n" + 
 				"dalawa\r\n" + 
 				"higit pa\r\n" + 
@@ -1401,7 +1401,7 @@ public class Filipino_to_English {
 				"Huwag pansinin\r\n" + 
 				"itlog\r\n" + 
 				"sukatin\r\n" + 
-				"belie\r\n" + 
+				"paniniwala\r\n" + 
 				"ipakita\r\n" + 
 				"kahit sino\r\n" + 
 				"pagpatay\r\n" + 
@@ -2423,7 +2423,7 @@ public class Filipino_to_English {
 				"Mahigpit\r\n" + 
 				"engineering\r\n" + 
 				"luck\r\n" + 
-				"socalled\r\n" + 
+				"tinatawag na\r\n" + 
 				"pare-pareho\r\n" + 
 				"lahi\r\n" + 
 				"klinika\r\n" + 
@@ -3185,7 +3185,7 @@ public class Filipino_to_English {
 				"lumutang\r\n" + 
 				"sumailalim\r\n" + 
 				"pagkakasunud-sunod\r\n" + 
-				"demonstrationn\r\n" + 
+				"demonstrasyon\r\n" + 
 				"jet\r\n" + 
 				"orange\r\n" + 
 				"pagkonsumo\r\n" + 
@@ -3407,7 +3407,7 @@ public class Filipino_to_English {
 				"libingan\r\n" + 
 				"daliri ng paa\r\n" + 
 				"lalagyan\r\n" + 
-				"kabutihan\r\n" + 
+				"kagalingan\r\n" + 
 				"sa ibang bansa\r\n" + 
 				"arkitekto\r\n" + 
 				"kapansin-pansing\r\n" + 
@@ -3537,7 +3537,7 @@ public class Filipino_to_English {
 				"malamig\r\n" + 
 				"klasiko\r\n" + 
 				"tinatayang\r\n" + 
-				"Tshirt\r\n" + 
+				"T-shirt\r\n" + 
 				"online\r\n" + 
 				"kawalan ng trabaho\r\n" + 
 				"sibilisasyon\r\n" + 
@@ -3668,7 +3668,7 @@ public class Filipino_to_English {
 				"daluyan\r\n" + 
 				"panlabas\r\n" + 
 				"pagsuso\r\n" + 
-				"andor\r\n" + 
+				"at o\r\n" + 
 				"broadcast\r\n" + 
 				"muli\r\n" + 
 				"lumukso\r\n" + 
@@ -4046,7 +4046,7 @@ public class Filipino_to_English {
 				"bigo\r\n" + 
 				"mahalaga\r\n" + 
 				"ipagbawal\r\n" + 
-				"representativej\r\n" + 
+				"kinatawan\r\n" + 
 				"nilalaman\r\n" + 
 				"makatotohanan\r\n" + 
 				"Ruso\r\n" + 
@@ -4367,7 +4367,7 @@ public class Filipino_to_English {
 				"baywang\r\n" + 
 				"inaasahan\r\n" + 
 				"leon\r\n" + 
-				"natutupad\r\n" + 
+				"katuparan\r\n" + 
 				"maharlika\r\n" + 
 				"gulat\r\n" + 
 				"cast\r\n" + 
@@ -4462,7 +4462,7 @@ public class Filipino_to_English {
 				"apo\r\n" + 
 				"dam\r\n" + 
 				"Iniulat\r\n" + 
-				"wellknown\r\n" + 
+				"kilalang\r\n" + 
 				"nakapaligid\r\n" + 
 				"ekolohiya\r\n" + 
 				"sangkapan\r\n" + 
@@ -4628,7 +4628,7 @@ public class Filipino_to_English {
 				"lumabas\r\n" + 
 				"unggoy\r\n" + 
 				"tagapagturo\r\n" + 
-				"twothirds\r\n" + 
+				"2/3\r\n" + 
 				"tagapakinig\r\n" + 
 				"kidlat\r\n" + 
 				"legal\r\n" + 
@@ -4637,7 +4637,7 @@ public class Filipino_to_English {
 				"abalahin\r\n" + 
 				"rib\r\n" + 
 				"labis\r\n" + 
-				"hightech\r\n" + 
+				"high-tech\r\n" + 
 				"mga labi\r\n" + 
 				"pile\r\n" + 
 				"pamalo\r\n" + 
@@ -5013,7 +5013,7 @@ public class Filipino_to_English {
 				"nabal\r\n" + 
 				"nagsasakdal\r\n" + 
 				"bata\r\n" + 
-				"middleclass\r\n" + 
+				"gitna-klase\r\n" + 
 				"paghingi ng tawad\r\n" + 
 				"hanggang\r\n" +
 				"generator\r\n" +

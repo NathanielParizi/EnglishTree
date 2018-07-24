@@ -11,11 +11,21 @@ public class Arabic_to_English {
 
 		System.out.println(lines[4999]);
 		
-String linesP[] = arabicP.split(System.getProperty("line.separator"));
+		String linesP[] = arabicP.split(System.getProperty("line.separator"));
 		
-		System.out.println(linesP[4999]);  
+		System.out.println(linesP[1384]);  
+		
+		for(String l : lines) {
+				
+				System.out.println(l);
+			}
 
+	
+	
+	
 	}
+	
+	
 
 	
 
@@ -49,7 +59,7 @@ String linesP[] = arabicP.split(System.getProperty("line.separator"));
 				"من عند\r\n" + 
 				"أن\r\n" + 
 				"ليس\r\n" + 
-				"الإقليم الشمالي\r\n" + 
+				"لا\r\n" + 
 				"بواسطة\r\n" + 
 				"هي\r\n" + 
 				"أو\r\n" + 
@@ -1091,7 +1101,7 @@ String linesP[] = arabicP.split(System.getProperty("line.separator"));
 				"جريدة\r\n" + 
 				"في حين أن\r\n" + 
 				"التهديد\r\n" + 
-				"responsibilityn\r\n" + 
+				"المسئولية\r\n" + 
 				"ابتسامة\r\n" + 
 				"محامي\r\n" + 
 				"أحرز هدفاً\r\n" + 
@@ -1405,7 +1415,7 @@ String linesP[] = arabicP.split(System.getProperty("line.separator"));
 				"تجاهل\r\n" + 
 				"بيضة\r\n" + 
 				"قياس\r\n" + 
-				"تكذب\r\n" + 
+				"إيمان\r\n" + 
 				"يتظاهر\r\n" + 
 				"اي شخص\r\n" + 
 				"قتل\r\n" + 
@@ -2427,7 +2437,7 @@ String linesP[] = arabicP.split(System.getProperty("line.separator"));
 				"بقوة\r\n" + 
 				"هندسة\r\n" + 
 				"حظ\r\n" + 
-				"يسمى ب\r\n" + 
+				"ما يسمى\r\n" + 
 				"ثابت\r\n" + 
 				"سباق\r\n" + 
 				"عيادة\r\n" + 
@@ -2951,7 +2961,7 @@ String linesP[] = arabicP.split(System.getProperty("line.separator"));
 				"تظاهر\r\n" + 
 				"ليس\r\n" + 
 				"كبار السن\r\n" + 
-				"representationn\r\n" + 
+				"التمثيل\r\n" + 
 				"الغزال\r\n" + 
 				"انشق، مزق\r\n" + 
 				"انتهاك\r\n" + 
@@ -3189,7 +3199,7 @@ String linesP[] = arabicP.split(System.getProperty("line.separator"));
 				"تطفو\r\n" + 
 				"خضع\r\n" + 
 				"تسلسل\r\n" + 
-				"demonstrationn\r\n" + 
+				"برهنة\r\n" + 
 				"طائرة نفاثة\r\n" + 
 				"البرتقالي\r\n" + 
 				"استهلاك\r\n" + 
@@ -4050,7 +4060,7 @@ String linesP[] = arabicP.split(System.getProperty("line.separator"));
 				"خائب الامل\r\n" + 
 				"ثمين\r\n" + 
 				"حظر\r\n" + 
-				"representativej\r\n" + 
+				"وكيل\r\n" + 
 				"يحتوى\r\n" + 
 				"واقعي\r\n" + 
 				"الروسية\r\n" + 
@@ -4234,7 +4244,7 @@ String linesP[] = arabicP.split(System.getProperty("line.separator"));
 				"إفلاس\r\n" + 
 				"لقاح\r\n" + 
 				"علاوة\r\n" + 
-				"collaborationn\r\n" + 
+				"تعاون\r\n" + 
 				"مختلط\r\n" + 
 				"معارض\r\n" + 
 				"مدار\r\n" + 
@@ -4371,7 +4381,7 @@ String linesP[] = arabicP.split(System.getProperty("line.separator"));
 				"وسط\r\n" + 
 				"متوقع\r\n" + 
 				"أسد\r\n" + 
-				"accomplishmentn\r\n" + 
+				"إنجاز\r\n" + 
 				"ملكي\r\n" + 
 				"هلع\r\n" + 
 				"المصبوب\r\n" + 
@@ -4632,7 +4642,7 @@ String linesP[] = arabicP.split(System.getProperty("line.separator"));
 				"تسلل\r\n" + 
 				"قرد\r\n" + 
 				"الناصح\r\n" + 
-				"الثلثين\r\n" + 
+				"2/3\r\n" + 
 				"مستمع\r\n" + 
 				"برق\r\n" + 
 				"من الناحية القانونية\r\n" + 
@@ -5055,7 +5065,7 @@ String linesP[] = arabicP.split(System.getProperty("line.separator"));
 				"min eind\r\n" + 
 				"'ana\r\n" + 
 				"lays\r\n" + 
-				"al'iiqlim alshamaliu\r\n" + 
+				"la\r\n" + 
 				"bwast\r\n" + 
 				"hi\r\n" + 
 				"'aw\r\n" + 
@@ -6097,7 +6107,7 @@ String linesP[] = arabicP.split(System.getProperty("line.separator"));
 				"jarida\r\n" + 
 				"fy hyn 'ana\r\n" + 
 				"altahdid\r\n" + 
-				"responsibilityn\r\n" + 
+				"almasyuwlia\r\n" + 
 				"aibtisama\r\n" + 
 				"muhami\r\n" + 
 				"'ahraz hdfaan\r\n" + 
@@ -6411,7 +6421,7 @@ String linesP[] = arabicP.split(System.getProperty("line.separator"));
 				"tajahul\r\n" + 
 				"bida\r\n" + 
 				"qias\r\n" + 
-				"takadhib\r\n" + 
+				"'iiman\r\n" + 
 				"yatazahar\r\n" + 
 				"'ayi shakhs\r\n" + 
 				"qutil\r\n" + 
@@ -7433,7 +7443,7 @@ String linesP[] = arabicP.split(System.getProperty("line.separator"));
 				"biqua\r\n" + 
 				"handasa\r\n" + 
 				"haz\r\n" + 
-				"yusamaa b\r\n" + 
+				"ma yusamaa\r\n" + 
 				"thabt\r\n" + 
 				"sibaq\r\n" + 
 				"eiada\r\n" + 
@@ -7957,7 +7967,7 @@ String linesP[] = arabicP.split(System.getProperty("line.separator"));
 				"tazahar\r\n" + 
 				"lays\r\n" + 
 				"kibar alsin\r\n" + 
-				"representationn\r\n" + 
+				"altamthil\r\n" + 
 				"alghazal\r\n" + 
 				"anshiq, mizq\r\n" + 
 				"aintihak\r\n" + 
@@ -8195,7 +8205,7 @@ String linesP[] = arabicP.split(System.getProperty("line.separator"));
 				"ttfu\r\n" + 
 				"khadae\r\n" + 
 				"tuslisul\r\n" + 
-				"demonstrationn\r\n" + 
+				"barahna\r\n" + 
 				"tayirat nafatha\r\n" + 
 				"alburtuqaliu\r\n" + 
 				"aistihlak\r\n" + 
@@ -9056,7 +9066,7 @@ String linesP[] = arabicP.split(System.getProperty("line.separator"));
 				"khayib al'amal\r\n" + 
 				"thamin\r\n" + 
 				"hazr\r\n" + 
-				"representativej\r\n" + 
+				"wakil\r\n" + 
 				"yahtawaa\r\n" + 
 				"waqieiin\r\n" + 
 				"alruwsia\r\n" + 
@@ -9240,7 +9250,7 @@ String linesP[] = arabicP.split(System.getProperty("line.separator"));
 				"'iiflas\r\n" + 
 				"liqah\r\n" + 
 				"eilawatan\r\n" + 
-				"collaborationn\r\n" + 
+				"taeawun\r\n" + 
 				"mukhtalit\r\n" + 
 				"muearid\r\n" + 
 				"madar\r\n" + 
@@ -9377,7 +9387,7 @@ String linesP[] = arabicP.split(System.getProperty("line.separator"));
 				"wasat\r\n" + 
 				"mutawaqae\r\n" + 
 				"'asada\r\n" + 
-				"accomplishmentn\r\n" + 
+				"'iinjaz\r\n" + 
 				"milki\r\n" + 
 				"hale\r\n" + 
 				"almasbub\r\n" + 

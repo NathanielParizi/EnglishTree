@@ -52,7 +52,7 @@ public class Chinese_to_English {
 				"从\r\n" + 
 				"那\r\n" + 
 				"不\r\n" + 
-				"NT\r\n" + 
+				"别\r\n" + 
 				"由\r\n" + 
 				"她\r\n" + 
 				"或\r\n" + 
@@ -1094,7 +1094,7 @@ public class Chinese_to_English {
 				"报纸\r\n" + 
 				"代替\r\n" + 
 				"威胁\r\n" + 
-				"responsibilityn\r\n" + 
+				"责任\r\n" + 
 				"微笑\r\n" + 
 				"律师\r\n" + 
 				"比分\r\n" + 
@@ -1408,7 +1408,7 @@ public class Chinese_to_English {
 				"忽视\r\n" + 
 				"鸡蛋\r\n" + 
 				"测量\r\n" + 
-				"叶公好龙\r\n" + 
+				"信仰\r\n" + 
 				"演示\r\n" + 
 				"任何人\r\n" + 
 				"谋杀\r\n" + 
@@ -2954,7 +2954,7 @@ public class Chinese_to_English {
 				"假装\r\n" + 
 				"不\r\n" + 
 				"老年\r\n" + 
-				"representationn\r\n" + 
+				"表示\r\n" + 
 				"鹿\r\n" + 
 				"分裂\r\n" + 
 				"违反\r\n" + 
@@ -3192,7 +3192,7 @@ public class Chinese_to_English {
 				"浮动\r\n" + 
 				"经历\r\n" + 
 				"序列\r\n" + 
-				"demonstrationn\r\n" + 
+				"合作\r\n" + 
 				"喷气式飞机\r\n" + 
 				"橙\r\n" + 
 				"消费\r\n" + 
@@ -3675,7 +3675,7 @@ public class Chinese_to_English {
 				"中\r\n" + 
 				"室外\r\n" + 
 				"吮吸\r\n" + 
-				"安道尔\r\n" + 
+				"和或\r\n" + 
 				"广播\r\n" + 
 				"重\r\n" + 
 				"飞跃\r\n" + 
@@ -4053,7 +4053,7 @@ public class Chinese_to_English {
 				"失望\r\n" + 
 				"珍贵\r\n" + 
 				"禁止\r\n" + 
-				"representativej\r\n" + 
+				"代表\r\n" + 
 				"内容\r\n" + 
 				"实际\r\n" + 
 				"俄\r\n" + 
@@ -4237,7 +4237,7 @@ public class Chinese_to_English {
 				"破产\r\n" + 
 				"疫苗\r\n" + 
 				"奖金\r\n" + 
-				"collaborationn\r\n" + 
+				"合作\r\n" + 
 				"杂\r\n" + 
 				"反对\r\n" + 
 				"轨道\r\n" + 
@@ -4374,7 +4374,7 @@ public class Chinese_to_English {
 				"腰\r\n" + 
 				"预期\r\n" + 
 				"狮子\r\n" + 
-				"accomplishmentn\r\n" + 
+				"成就\r\n" + 
 				"王室的\r\n" + 
 				"恐慌\r\n" + 
 				"投\r\n" + 
@@ -4635,7 +4635,7 @@ public class Chinese_to_English {
 				"潜行\r\n" + 
 				"猴子\r\n" + 
 				"导师\r\n" + 
-				"三分之二\r\n" + 
+				"2/3\r\n" + 
 				"倾听者\r\n" + 
 				"闪电\r\n" + 
 				"法律上\r\n" + 
@@ -5057,7 +5057,7 @@ public class Chinese_to_English {
 				"cóng\r\n" + 
 				"nà\r\n" + 
 				"bù\r\n" + 
-				"NT\r\n" + 
+				"Bié\r\n" + 
 				"yóu\r\n" + 
 				"tā\r\n" + 
 				"huò\r\n" + 
@@ -6099,7 +6099,7 @@ public class Chinese_to_English {
 				"bàozhǐ\r\n" + 
 				"dàitì\r\n" + 
 				"wēixié\r\n" + 
-				"responsibilityn\r\n" + 
+				"Zérèn\r\n" + 
 				"wéixiào\r\n" + 
 				"lǜshī\r\n" + 
 				"bǐfēn\r\n" + 
@@ -6413,7 +6413,7 @@ public class Chinese_to_English {
 				"hūshì\r\n" + 
 				"jīdàn\r\n" + 
 				"cèliáng\r\n" + 
-				"yègōnghàolóng\r\n" + 
+				"Xìnyǎng\r\n" + 
 				"yǎnshì\r\n" + 
 				"rènhé rén\r\n" + 
 				"móushā\r\n" + 
@@ -7959,7 +7959,7 @@ public class Chinese_to_English {
 				"jiǎzhuāng\r\n" + 
 				"bù\r\n" + 
 				"lǎonián\r\n" + 
-				"representationn\r\n" + 
+				"Biǎoshì\r\n" + 
 				"lù\r\n" + 
 				"fēnliè\r\n" + 
 				"wéifǎn\r\n" + 
@@ -8197,7 +8197,7 @@ public class Chinese_to_English {
 				"fúdòng\r\n" + 
 				"jīnglì\r\n" + 
 				"xùliè\r\n" + 
-				"demonstrationn\r\n" + 
+				"Hézuò\r\n" + 
 				"pēnqì shì fēijī\r\n" + 
 				"chéng\r\n" + 
 				"xiāofèi\r\n" + 
@@ -8680,7 +8680,7 @@ public class Chinese_to_English {
 				"zhōng\r\n" + 
 				"shìwài\r\n" + 
 				"shǔnxī\r\n" + 
-				"āndào ěr\r\n" + 
+				"Hé huò\r\n" + 
 				"guǎngbò\r\n" + 
 				"zhòng\r\n" + 
 				"fēiyuè\r\n" + 
@@ -9058,7 +9058,7 @@ public class Chinese_to_English {
 				"shīwàng\r\n" + 
 				"zhēnguì\r\n" + 
 				"jìnzhǐ\r\n" + 
-				"representativej\r\n" + 
+				"Dàibiǎo\r\n" + 
 				"nèiróng\r\n" + 
 				"shíjì\r\n" + 
 				"é\r\n" + 
@@ -9242,7 +9242,7 @@ public class Chinese_to_English {
 				"pòchǎn\r\n" + 
 				"yìmiáo\r\n" + 
 				"jiǎngjīn\r\n" + 
-				"collaborationn\r\n" + 
+				"Hézuò\r\n" + 
 				"zá\r\n" + 
 				"fǎnduì\r\n" + 
 				"guǐdào\r\n" + 
@@ -9379,7 +9379,7 @@ public class Chinese_to_English {
 				"yāo\r\n" + 
 				"yùqí\r\n" + 
 				"shīzi\r\n" + 
-				"accomplishmentn\r\n" + 
+				"Chéngjiù\r\n" + 
 				"wángshì de\r\n" + 
 				"kǒnghuāng\r\n" + 
 				"tóu\r\n" + 
@@ -9640,7 +9640,7 @@ public class Chinese_to_English {
 				"qiánxíng\r\n" + 
 				"hóuzi\r\n" + 
 				"dǎoshī\r\n" + 
-				"sān fēn zhī èr\r\n" + 
+				"2/3\r\n" + 
 				"qīngtīng zhě\r\n" + 
 				"shǎndiàn\r\n" + 
 				"fǎlǜ shàng\r\n" + 

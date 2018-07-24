@@ -5,13 +5,15 @@ public class Korean_to_English {
 	public static void main(String[] args) throws IOException {
 
 		String korean = koreanParser();
+		String koreanP = koreanPronounce();
 		
 		
 		String lines[] = korean.split(System.getProperty("line.separator"));
+		String linesP[] = koreanP.split(System.getProperty("line.separator"));
 		
-		System.out.println(lines[4690]);  
+		System.out.println(lines[28]);  
+		System.out.println(linesP[28]);  
 		
-	
 
 	}
 	
@@ -47,7 +49,7 @@ public class Korean_to_English {
 				"...에서\r\n" + 
 				"그\r\n" + 
 				"아니\r\n" + 
-				"NT\r\n" + 
+				"하지마\r\n" + 
 				"으로\r\n" + 
 				"여자\r\n" + 
 				"또는\r\n" + 
@@ -231,7 +233,7 @@ public class Korean_to_English {
 				"살고 있다\r\n" + 
 				"씨\r\n" + 
 				"포인트\r\n" + 
-				"믿다\r\n" + 
+				"믿음\r\n" + 
 				"보류\r\n" + 
 				"오늘\r\n" + 
 				"가져오다\r\n" + 
@@ -3362,7 +3364,7 @@ public class Korean_to_English {
 				"매질\r\n" + 
 				"집 밖의\r\n" + 
 				"빨다\r\n" + 
-				"andor\r\n" + 
+				"및\r\n" + 
 				"방송\r\n" + 
 				"레\r\n" + 
 				"뛰기\r\n" + 
@@ -4322,7 +4324,7 @@ public class Korean_to_English {
 				"좀도둑\r\n" + 
 				"원숭이\r\n" + 
 				"멘토르\r\n" + 
-				"십삼\r\n" + 
+				"2/3\r\n" + 
 				"경청자\r\n" + 
 				"번개\r\n" + 
 				"법적으로\r\n" + 
@@ -4331,7 +4333,7 @@ public class Korean_to_English {
 				"방해하다\r\n" + 
 				"늑골\r\n" + 
 				"과도한\r\n" + 
-				"하이테크\r\n" + 
+				"첨단 기술\r\n" + 
 				"부스러기\r\n" + 
 				"말뚝\r\n" + 
 				"막대\r\n" + 
@@ -4742,7 +4744,7 @@ public class Korean_to_English {
 				"...eseo\r\n" + 
 				"geu\r\n" + 
 				"ani\r\n" + 
-				"NT\r\n" + 
+				"hajima\r\n" + 
 				"eulo\r\n" + 
 				"yeoja\r\n" + 
 				"ttoneun\r\n" + 
@@ -4926,7 +4928,7 @@ public class Korean_to_English {
 				"salgo issda\r\n" + 
 				"ssi\r\n" + 
 				"pointeu\r\n" + 
-				"midda\r\n" + 
+				"mid-eum\r\n" + 
 				"bolyu\r\n" + 
 				"oneul\r\n" + 
 				"gajyeooda\r\n" + 
@@ -8057,7 +8059,7 @@ public class Korean_to_English {
 				"maejil\r\n" + 
 				"jib bakk-ui\r\n" + 
 				"ppalda\r\n" + 
-				"andor\r\n" + 
+				"mich\r\n" + 
 				"bangsong\r\n" + 
 				"le\r\n" + 
 				"ttwigi\r\n" + 
@@ -9026,7 +9028,7 @@ public class Korean_to_English {
 				"banghaehada\r\n" + 
 				"neuggol\r\n" + 
 				"gwadohan\r\n" + 
-				"haitekeu\r\n" + 
+				"cheomdan gisul\r\n" + 
 				"buseuleogi\r\n" + 
 				"malttug\r\n" + 
 				"magdae\r\n" + 

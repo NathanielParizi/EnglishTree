@@ -10,7 +10,7 @@ public class Thai_to_English {
 		
 		String lines[] = thai.split(System.getProperty("line.separator"));
 		
-		System.out.println(lines[0]);  
+		System.out.println(lines[4999]);  
 		
 	
 		
@@ -25,7 +25,7 @@ public class Thai_to_English {
 
 	private static String thaiParser() {
 		// TODO Auto-generated method stub
-		return	"(ไม่มีการแปล)" +		
+		return	"(ไม่มีการแปล)\r\n" +		
 				"เป็น\r\n" + 
 				"และ\r\n" + 
 				"ของ\r\n" + 
@@ -53,7 +53,7 @@ public class Thai_to_English {
 				"จาก\r\n" + 
 				"ที่\r\n" + 
 				"ไม่\r\n" + 
-				"NT\r\n" + 
+				"อย่า\r\n" +    //NT 
 				"โดย\r\n" + 
 				"เธอ\r\n" + 
 				"หรือ\r\n" + 
@@ -102,7 +102,7 @@ public class Thai_to_English {
 				"อื่น ๆ\r\n" + 
 				"อย่างไร\r\n" + 
 				"แล้วก็\r\n" + 
-				"ของมัน\r\n" + 
+				"มันเป็น\r\n" + 
 				"ของเรา\r\n" + 
 				"สอง\r\n" + 
 				"มากกว่า\r\n" + 
@@ -1277,7 +1277,7 @@ public class Thai_to_English {
 				"ฤดูหนาว\r\n" + 
 				"หมู่บ้าน\r\n" + 
 				"โซเวียต\r\n" + 
-				"ปฏิเสธ\r\n" + 
+				"ความเชื่อ\r\n" + 
 				"ขาย\r\n" + 
 				"ม้วน\r\n" + 
 				"การสื่อสาร\r\n" + 
@@ -1409,7 +1409,7 @@ public class Thai_to_English {
 				"ไม่สนใจ\r\n" + 
 				"ไข่\r\n" + 
 				"วัด\r\n" + 
-				"ปฏิเสธ\r\n" + 
+				"ความเชื่อ\r\n" + 
 				"สาธิต\r\n" + 
 				"ใคร ๆ\r\n" + 
 				"ฆาตกรรม\r\n" + 
@@ -2431,7 +2431,7 @@ public class Thai_to_English {
 				"เสถียร\r\n" + 
 				"วิศวกรรม\r\n" + 
 				"โชค\r\n" + 
-				"socalled\r\n" + 
+				"ที่เรียกว่า\r\n" + 
 				"คงที่\r\n" + 
 				"แข่ง\r\n" + 
 				"คลินิก\r\n" + 
@@ -3193,7 +3193,7 @@ public class Thai_to_English {
 				"ลอย\r\n" + 
 				"ได้รับ\r\n" + 
 				"ลำดับ\r\n" + 
-				"demonstrationn\r\n" + 
+				"สาธิต\r\n" + 
 				"เครื่องบินไอพ่น\r\n" + 
 				"ส้ม\r\n" + 
 				"การบริโภค\r\n" + 
@@ -4375,7 +4375,7 @@ public class Thai_to_English {
 				"เอว\r\n" + 
 				"ที่คาดหวัง\r\n" + 
 				"สิงโต\r\n" + 
-				"accomplishmentn\r\n" + 
+				"ความสำเร็จ\r\n" + 
 				"หลวง\r\n" + 
 				"ความหวาดกลัว\r\n" + 
 				"โยน\r\n" + 
@@ -4470,7 +4470,7 @@ public class Thai_to_English {
 				"หลาน\r\n" + 
 				"เขื่อน\r\n" + 
 				"ตามข่าว\r\n" + 
-				"ที่รู้จักกันดี\r\n" + 
+				"รู้จักกันทั่ว\r\n" + 
 				"ที่ล้อมรอบ\r\n" + 
 				"ระบบนิเวศ\r\n" + 
 				"เครื่องแต่งกาย\r\n" + 
@@ -4616,7 +4616,7 @@ public class Thai_to_English {
 				"สำคัญ\r\n" + 
 				"แฉ\r\n" + 
 				"เรื่องตลก\r\n" + 
-				"คุณภาพชีวิต\r\n" + 
+				"ความผาสุก\r\n" + 
 				"ความถูกต้อง\r\n" + 
 				"ระบบนิเวศ\r\n" + 
 				"อย่างเคร่งครัด\r\n" + 
@@ -4880,7 +4880,7 @@ public class Thai_to_English {
 				"เบี้ยประกันภัย\r\n" + 
 				"การรับผิดชอบ\r\n" + 
 				"ประเด\r\n" + 
-				"onethird\r\n" + 
+				"หนึ่งส่วนสาม \r\n" + 
 				"คิด\r\n" + 
 				"ปรับปรุง\r\n" + 
 				"จุดประกาย\r\n" + 
@@ -5058,7 +5058,7 @@ public class Thai_to_English {
 				"cāk\r\n" + 
 				"thī̀\r\n" + 
 				"mị̀\r\n" + 
-				"NT\r\n" + 
+				"Xỳā\r\n" + 
 				"doy\r\n" + 
 				"ṭhex\r\n" + 
 				"h̄rụ̄x\r\n" + 
@@ -5107,7 +5107,7 @@ public class Thai_to_English {
 				"xụ̄̀n «\r\n" + 
 				"xỳāngrị\r\n" + 
 				"læ̂w k̆\r\n" + 
-				"k̄hxng mạn\r\n" + 
+				"Mạn pĕn\r\n" + 
 				"k̄hxng reā\r\n" + 
 				"s̄xng\r\n" + 
 				"mākkẁā\r\n" + 
@@ -6282,7 +6282,7 @@ public class Thai_to_English {
 				"vdū h̄nāw\r\n" + 
 				"h̄mū̀b̂ān\r\n" + 
 				"soweīyt\r\n" + 
-				"pt̩is̄eṭh\r\n" + 
+				"Khwām cheụ̄̀x\r\n" + 
 				"k̄hāy\r\n" + 
 				"m̂wn\r\n" + 
 				"kār s̄ụ̄̀xs̄ār\r\n" + 
@@ -6414,7 +6414,7 @@ public class Thai_to_English {
 				"mị̀ s̄ncı\r\n" + 
 				"k̄hị̀\r\n" + 
 				"wạd\r\n" + 
-				"pt̩is̄eṭh\r\n" + 
+				"Khwām cheụ̄̀x\r\n" + 
 				"s̄āṭhit\r\n" + 
 				"khır «\r\n" + 
 				"ḳhātkrrm\r\n" + 
@@ -7436,7 +7436,7 @@ public class Thai_to_English {
 				"s̄et̄hīyr\r\n" + 
 				"wiṣ̄wkrrm\r\n" + 
 				"chokh\r\n" + 
-				"socalled\r\n" + 
+				"Thī̀ reīyk ẁā\r\n" + 
 				"khngthī̀\r\n" + 
 				"k̄hæ̀ng\r\n" + 
 				"khlinik\r\n" + 
@@ -8198,7 +8198,7 @@ public class Thai_to_English {
 				"lxy\r\n" + 
 				"dị̂ rạb\r\n" + 
 				"lảdạb\r\n" + 
-				"demonstrationn\r\n" + 
+				"S̄āṭhit\r\n" + 
 				"kherụ̄̀xngbin xịph̀n\r\n" + 
 				"s̄̂m\r\n" + 
 				"kār brip̣hokh\r\n" + 
@@ -9380,7 +9380,7 @@ public class Thai_to_English {
 				"xew\r\n" + 
 				"thī̀ khād h̄wạng\r\n" + 
 				"s̄ingto\r\n" + 
-				"accomplishmentn\r\n" + 
+				"Khwām s̄ảrĕc\r\n" + 
 				"h̄lwng\r\n" + 
 				"khwām h̄wād klạw\r\n" + 
 				"yon\r\n" + 
@@ -9475,7 +9475,7 @@ public class Thai_to_English {
 				"h̄lān\r\n" + 
 				"k̄heụ̄̀xn\r\n" + 
 				"tām k̄h̀āw\r\n" + 
-				"thī̀ rū̂cạk kạn dī\r\n" + 
+				"Rū̂cạk kạn thạ̀w\r\n" + 
 				"thī̀ l̂xm rxb\r\n" + 
 				"rabb niweṣ̄\r\n" + 
 				"kherụ̄̀xng tæ̀ng kāy\r\n" + 
@@ -9621,7 +9621,7 @@ public class Thai_to_English {
 				"s̄ảkhạỵ\r\n" + 
 				"c̄hæ\r\n" + 
 				"reụ̄̀xng tlk\r\n" + 
-				"khuṇp̣hāph chīwit\r\n" + 
+				"Khwām p̄hās̄uk\r\n" + 
 				"khwām t̄hūk t̂xng\r\n" + 
 				"rabb niweṣ̄\r\n" + 
 				"xỳāng kher̀ngkhrạd\r\n" + 
@@ -9641,7 +9641,7 @@ public class Thai_to_English {
 				"xæb dū\r\n" + 
 				"ling\r\n" + 
 				"thī̀ prụks̄ʹā\r\n" + 
-				"twothirds\r\n" + 
+				"2/3\r\n" + 
 				"p̄hū̂ fạng\r\n" + 
 				"f̂ālæb\r\n" + 
 				"tām kḍh̄māy\r\n" + 
@@ -9885,7 +9885,7 @@ public class Thai_to_English {
 				"beī̂yprakạnp̣hạy\r\n" + 
 				"kār rạbp̄hidchxb\r\n" + 
 				"prade\r\n" + 
-				"onethird\r\n" + 
+				"H̄nụ̀ng s̄̀wn s̄ām\r\n" + 
 				"khid\r\n" + 
 				"prạbprung\r\n" + 
 				"cud prakāy\r\n" + 

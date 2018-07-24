@@ -44,7 +44,7 @@ public class French_to_English {
 				"de\r\n" + 
 				"cette\r\n" + 
 				"ne pas\r\n" + 
-				"NT\r\n" + 
+				"ne pas\r\n" + 
 				"par\r\n" + 
 				"elle\r\n" + 
 				"ou\r\n" + 
@@ -1400,7 +1400,7 @@ public class French_to_English {
 				"ignorer\r\n" + 
 				"Oeuf\r\n" + 
 				"mesure\r\n" + 
-				"démentir\r\n" + 
+				"croyance\r\n" + 
 				"démontrer\r\n" + 
 				"n'importe qui\r\n" + 
 				"meurtre\r\n" + 
@@ -2422,7 +2422,7 @@ public class French_to_English {
 				"fortement\r\n" + 
 				"ingénierie\r\n" + 
 				"la chance\r\n" + 
-				"appelé\r\n" + 
+				"soi-disant\r\n" + 
 				"constant\r\n" + 
 				"course\r\n" + 
 				"clinique\r\n" + 
@@ -3184,7 +3184,7 @@ public class French_to_English {
 				"flotte\r\n" + 
 				"subir\r\n" + 
 				"séquence\r\n" + 
-				"demonstrationn\r\n" + 
+				"manifestation\r\n" + 
 				"jet\r\n" + 
 				"Orange\r\n" + 
 				"consommation\r\n" + 
@@ -3667,7 +3667,7 @@ public class French_to_English {
 				"moyen\r\n" + 
 				"de plein air\r\n" + 
 				"sucer\r\n" + 
-				"andor\r\n" + 
+				"et ou\r\n" + 
 				"diffuser\r\n" + 
 				"ré\r\n" + 
 				"saut\r\n" + 
@@ -4229,7 +4229,7 @@ public class French_to_English {
 				"la faillite\r\n" + 
 				"vaccin\r\n" + 
 				"prime\r\n" + 
-				"collaborationn\r\n" + 
+				"collaboration\r\n" + 
 				"mixte\r\n" + 
 				"opposé\r\n" + 
 				"orbite\r\n" + 

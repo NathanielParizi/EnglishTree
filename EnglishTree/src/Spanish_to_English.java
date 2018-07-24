@@ -876,7 +876,7 @@ public class Spanish_to_English {
 				"verdad\r\n" + 
 				"canción\r\n" + 
 				"ejemplo\r\n" + 
-				"democrático\r\n" + 
+				"demostración\r\n" + 
 				"comprobar\r\n" + 
 				"ambiente\r\n" + 
 				"pierna\r\n" + 
@@ -1405,8 +1405,8 @@ public class Spanish_to_English {
 				"ignorar\r\n" + 
 				"huevo\r\n" + 
 				"medida\r\n" + 
-				"desmentir\r\n" + 
-				"demostrar\r\n" + 
+				"creencia\r\n" + 
+				"demostración\r\n" + 
 				"nadie\r\n" + 
 				"asesinato\r\n" + 
 				"regalo\r\n" + 

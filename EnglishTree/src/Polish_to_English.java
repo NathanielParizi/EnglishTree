@@ -1092,7 +1092,7 @@ public class Polish_to_English {
 				"Gazeta\r\n" + 
 				"zamiast\r\n" + 
 				"zagrożenie\r\n" + 
-				"responsibilityn\r\n" + 
+				"odpowiedzialność\r\n" + 
 				"uśmiech\r\n" + 
 				"adwokat\r\n" + 
 				"wynik\r\n" + 
@@ -2952,7 +2952,7 @@ public class Polish_to_English {
 				"stwarzać pozory\r\n" + 
 				"nie\r\n" + 
 				"Starsi\r\n" + 
-				"representn\r\n" + 
+				"reprezentacja\r\n" + 
 				"jeleń\r\n" + 
 				"rozdzielać\r\n" + 
 				"naruszać\r\n" + 
@@ -3673,7 +3673,7 @@ public class Polish_to_English {
 				"średni\r\n" + 
 				"na wolnym powietrzu\r\n" + 
 				"ssać\r\n" + 
-				"andor\r\n" + 
+				"i lub\r\n" + 
 				"nadawanie\r\n" + 
 				"re\r\n" + 
 				"skok\r\n" + 
@@ -4372,7 +4372,7 @@ public class Polish_to_English {
 				"talia\r\n" + 
 				"spodziewany\r\n" + 
 				"Lew\r\n" + 
-				"accomplishmentn\r\n" + 
+				"osiągnięcie\r\n" + 
 				"królewski\r\n" + 
 				"panika\r\n" + 
 				"odlew\r\n" + 
@@ -4633,7 +4633,7 @@ public class Polish_to_English {
 				"skradać się\r\n" + 
 				"małpa\r\n" + 
 				"mentor\r\n" + 
-				"twothirds\r\n" + 
+				"2/3\r\n" + 
 				"słuchacz\r\n" + 
 				"Błyskawica\r\n" + 
 				"prawnie\r\n" + 

@@ -48,7 +48,7 @@ public class Japanese_to_English {
 				"から\r\n" + 
 				"それ\r\n" + 
 				"ない\r\n" + 
-				"NT\r\n" + 
+				"しない\r\n" + 
 				"〜によって\r\n" + 
 				"彼女\r\n" + 
 				"または\r\n" + 
@@ -232,7 +232,7 @@ public class Japanese_to_English {
 				"ライブ\r\n" + 
 				"氏\r\n" + 
 				"ポイント\r\n" + 
-				"信じる\r\n" + 
+				"信念\r\n" + 
 				"ホールド\r\n" + 
 				"今日\r\n" + 
 				"持参する\r\n" + 
@@ -339,7 +339,7 @@ public class Japanese_to_English {
 				"前\r\n" + 
 				"右\r\n" + 
 				"鉛\r\n" + 
-				"ソーシャル\r\n" + 
+				"いわゆる\r\n" + 
 				"わかる\r\n" + 
 				"かどうか\r\n" + 
 				"バック\r\n" + 

@@ -12,12 +12,15 @@ public class English_Vocabulary {
 		
 		String lines[] = english.split(System.getProperty("line.separator"));
 		
-		System.out.println(lines[4999]);  
+		  
 		
-		//950 - 960  problem fault occurs
+		for(String l : lines) {
+			
+			System.out.println(l);
+		}
 		
 		
-		 
+		System.out.println(lines[1384]);
 
 	}
 
@@ -51,7 +54,7 @@ public class English_Vocabulary {
 				"from\r\n" + 
 				"that\r\n" + 
 				"not\r\n" + 
-				"nt\r\n" + 
+				"don't\r\n" + 
 				"by\r\n" + 
 				"she\r\n" + 
 				"or\r\n" + 
@@ -100,7 +103,7 @@ public class English_Vocabulary {
 				"other\r\n" + 
 				"how\r\n" + 
 				"then\r\n" + 
-				"its\r\n" + 
+				"it's\r\n" + 
 				"our\r\n" + 
 				"two\r\n" + 
 				"more\r\n" + 
@@ -1093,7 +1096,7 @@ public class English_Vocabulary {
 				"newspaper\r\n" + 
 				"instead\r\n" + 
 				"threat\r\n" + 
-				"responsibilityn\r\n" + 
+				"responsibility\r\n" + 
 				"smile\r\n" + 
 				"attorney\r\n" + 
 				"score\r\n" + 
@@ -1407,7 +1410,7 @@ public class English_Vocabulary {
 				"ignore\r\n" + 
 				"egg\r\n" + 
 				"measure\r\n" + 
-				"belie\r\n" + 
+				"belief\r\n" + 
 				"demonstrate\r\n" + 
 				"anybody\r\n" + 
 				"murder\r\n" + 
@@ -2429,7 +2432,7 @@ public class English_Vocabulary {
 				"strongly\r\n" + 
 				"engineering\r\n" + 
 				"luck\r\n" + 
-				"socalled\r\n" + 
+				"so-called\r\n" + 
 				"constant\r\n" + 
 				"race\r\n" + 
 				"clinic\r\n" + 
@@ -2953,7 +2956,7 @@ public class English_Vocabulary {
 				"pretend\r\n" + 
 				"not\r\n" + 
 				"elderly\r\n" + 
-				"representationn\r\n" + 
+				"representation\r\n" + 
 				"deer\r\n" + 
 				"split\r\n" + 
 				"violate\r\n" + 
@@ -3191,7 +3194,7 @@ public class English_Vocabulary {
 				"float\r\n" + 
 				"undergo\r\n" + 
 				"sequence\r\n" + 
-				"demonstrationn\r\n" + 
+				"demonstration\r\n" + 
 				"jet\r\n" + 
 				"orange\r\n" + 
 				"consumption\r\n" + 
@@ -3228,7 +3231,7 @@ public class English_Vocabulary {
 				"terrorist\r\n" + 
 				"dominant\r\n" + 
 				"successfully\r\n" + 
-				"shit\r\n" + 
+				"crap\r\n" + 
 				"lemon\r\n" + 
 				"hungry\r\n" + 
 				"sense\r\n" + 
@@ -3543,7 +3546,7 @@ public class English_Vocabulary {
 				"cold\r\n" + 
 				"classical\r\n" + 
 				"estimated\r\n" + 
-				"Tshirt\r\n" + 
+				"T-shirt\r\n" + 
 				"online\r\n" + 
 				"unemployment\r\n" + 
 				"civilization\r\n" + 
@@ -3674,7 +3677,7 @@ public class English_Vocabulary {
 				"medium\r\n" + 
 				"outdoor\r\n" + 
 				"suck\r\n" + 
-				"andor\r\n" + 
+				"and or\r\n" + 
 				"broadcast\r\n" + 
 				"re\r\n" + 
 				"leap\r\n" + 
@@ -4052,7 +4055,7 @@ public class English_Vocabulary {
 				"disappointed\r\n" + 
 				"precious\r\n" + 
 				"prohibit\r\n" + 
-				"representativej\r\n" + 
+				"representative\r\n" + 
 				"content\r\n" + 
 				"realistic\r\n" + 
 				"Russian\r\n" + 
@@ -4373,7 +4376,7 @@ public class English_Vocabulary {
 				"waist\r\n" + 
 				"expected\r\n" + 
 				"lion\r\n" + 
-				"accomplishmentn\r\n" + 
+				"accomplishment\r\n" + 
 				"royal\r\n" + 
 				"panic\r\n" + 
 				"cast\r\n" + 
@@ -4468,7 +4471,7 @@ public class English_Vocabulary {
 				"grandchild\r\n" + 
 				"dam\r\n" + 
 				"reportedly\r\n" + 
-				"wellknown\r\n" + 
+				"well-known\r\n" + 
 				"surrounding\r\n" + 
 				"ecological\r\n" + 
 				"outfit\r\n" + 
@@ -4614,7 +4617,7 @@ public class English_Vocabulary {
 				"major\r\n" + 
 				"unfold\r\n" + 
 				"joke\r\n" + 
-				"wellbeing\r\n" + 
+				"well-being\r\n" + 
 				"validity\r\n" + 
 				"ecosystem\r\n" + 
 				"strictly\r\n" + 
@@ -4634,7 +4637,7 @@ public class English_Vocabulary {
 				"sneak\r\n" + 
 				"monkey\r\n" + 
 				"mentor\r\n" + 
-				"twothirds\r\n" + 
+				"two-thirds\r\n" + 
 				"listener\r\n" + 
 				"lightning\r\n" + 
 				"legally\r\n" + 
@@ -4643,7 +4646,7 @@ public class English_Vocabulary {
 				"disturb\r\n" + 
 				"rib\r\n" + 
 				"excessive\r\n" + 
-				"hightech\r\n" + 
+				"high-tech\r\n" + 
 				"debris\r\n" + 
 				"pile\r\n" + 
 				"rod\r\n" + 
@@ -4812,7 +4815,7 @@ public class English_Vocabulary {
 				"fragile\r\n" + 
 				"objection\r\n" + 
 				"chemistry\r\n" + 
-				"oldfashioned\r\n" + 
+				"old-fashioned\r\n" + 
 				"crowded\r\n" + 
 				"circle\r\n" + 
 				"blast\r\n" + 
@@ -4878,7 +4881,7 @@ public class English_Vocabulary {
 				"premium\r\n" + 
 				"accountability\r\n" + 
 				"overwhelm\r\n" + 
-				"onethird\r\n" + 
+				"one-third\r\n" + 
 				"contemplate\r\n" + 
 				"update\r\n" + 
 				"spark\r\n" + 
@@ -5019,7 +5022,7 @@ public class English_Vocabulary {
 				"naval\r\n" + 
 				"plaintiff\r\n" + 
 				"kid\r\n" + 
-				"middleclass\r\n" + 
+				"middle-class\r\n" + 
 				"apology\r\n" + 
 				"till\r\n" +
 				"generator\r\n" +

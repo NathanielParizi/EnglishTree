@@ -9,12 +9,9 @@ public class Vietnamese_to_English {
 
 		String lines[] = vietnamese.split(System.getProperty("line.separator"));
 
-		System.out.println(lines[4999]);
+		System.out.println(lines[4611]);
 		
-		for(String l : lines) {
-			
-			System.out.println(l);
-		}
+	
 
 
 }
@@ -49,7 +46,7 @@ public class Vietnamese_to_English {
 				"từ\r\n" + 
 				"cái đó\r\n" + 
 				"không phải\r\n" + 
-				"nt\r\n" + 
+				"không\r\n" + 
 				"bởi\r\n" + 
 				"bà ấy\r\n" + 
 				"hoặc là\r\n" + 
@@ -1405,7 +1402,7 @@ public class Vietnamese_to_English {
 				"bỏ qua\r\n" + 
 				"trứng\r\n" + 
 				"đo\r\n" + 
-				"belie\r\n" + 
+				"niềm tin\r\n" + 
 				"chứng minh\r\n" + 
 				"bất cứ ai\r\n" + 
 				"giết người\r\n" + 
@@ -2712,7 +2709,7 @@ public class Vietnamese_to_English {
 				"phản ứng\r\n" + 
 				"buồng\r\n" + 
 				"đồ nội thất\r\n" + 
-				"hợp tác\r\n" + 
+				"sự cộng tác\r\n" + 
 				"chuỗi\r\n" + 
 				"Lễ\r\n" + 
 				"giao tiếp\r\n" + 
@@ -3672,7 +3669,7 @@ public class Vietnamese_to_English {
 				"Trung bình\r\n" + 
 				"ngoài trời\r\n" + 
 				"hút\r\n" + 
-				"andor\r\n" + 
+				"và hoặc\r\n" + 
 				"phát sóng\r\n" + 
 				"lại\r\n" + 
 				"bước nhảy vọt\r\n" + 
@@ -4876,7 +4873,7 @@ public class Vietnamese_to_English {
 				"phí bảo hiểm\r\n" + 
 				"trách nhiệm giải trình\r\n" + 
 				"áp đảo\r\n" + 
-				"onethird\r\n" + 
+				"một phần ba\r\n" + 
 				"thưởng ngoạn\r\n" + 
 				"cập nhật\r\n" + 
 				"tia lửa\r\n" + 
